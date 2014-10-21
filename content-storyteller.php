@@ -19,7 +19,8 @@
 	    <div class="featured-media-storyteller">
 							
 			<a href="<?php the_permalink(); ?>" rel="bookmark" title="<?php the_title(); ?>">
-								
+				
+			    <!-- /Placeholder if no featured image -->			
 				<img src="/wp-content/themes/mo-tell/images/storyteller-placeholder.png" width="150" height="150" alt="placeholder image for author photo" />
 									
 			</a>
