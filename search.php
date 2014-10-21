@@ -2,6 +2,7 @@
 
 
 <?php
+//query
 global $query_string;
 
 $query_args = explode("&", $query_string);
