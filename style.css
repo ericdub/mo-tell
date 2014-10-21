@@ -1,0 +1,54 @@
+/*
+Theme Name: MO-Tell
+Description: Child theme that defines custom CSS and fields on MO-Tell site
+Author: Eric Watkins
+Version: 0.1
+Template: hemingway
+*/
+
+@import url("../hemingway/style.css");
+
+.section {
+padding: 3% 0; 
+position: relative;
+}
+
+.featured-media-storyteller {
+
+	float: left;
+	margin-right: 20px;
+}
+
+.storyteller-post-content {
+	clear: both;
+}
+
+.storyteller-contact {
+    
+	background-color: #eee;
+}
+.storyteller-contact-title {
+	padding: 2rem;
+	background-color: #dd971c;
+	color: #fff;
+	font-size: 1.5rem;
+}
+.storyteller-contact-meta {
+	padding: 2rem;
+	background-color: #eee;
+	
+}
+
+.tribe-events-button {
+
+	background-color: #eee;
+}
+
+.tribe-events-widget-link {
+
+	margin-top: 2em;
+}
+.tribe-events-venue-details address {
+ padding: inherit; 
+ background: #FFF; 
+}
